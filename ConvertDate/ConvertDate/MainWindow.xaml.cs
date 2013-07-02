@@ -32,9 +32,8 @@ namespace ConvertDate
             var input = TxtInput.Text;
 
             var inputSep = input.Split(new char[] {'\n'});
- 
 
-
+            //This is changed on Idealpad
             foreach (var aDateStr in inputSep)
             {
                 if (aDateStr == "\r" || aDateStr == "\n" || aDateStr == "")
