@@ -1,0 +1,13 @@
+C:\Test Projects\WPF\ConvertDate\ConvertDate\bin\Debug\ConvertDate.exe.config
+C:\Test Projects\WPF\ConvertDate\ConvertDate\bin\Debug\ConvertDate.exe
+C:\Test Projects\WPF\ConvertDate\ConvertDate\bin\Debug\ConvertDate.pdb
+C:\Test Projects\WPF\ConvertDate\ConvertDate\obj\Debug\ConvertDate.csprojResolveAssemblyReference.cache
+C:\Test Projects\WPF\ConvertDate\ConvertDate\obj\Debug\MainWindow.baml
+C:\Test Projects\WPF\ConvertDate\ConvertDate\obj\Debug\MainWindow.g.cs
+C:\Test Projects\WPF\ConvertDate\ConvertDate\obj\Debug\App.g.cs
+C:\Test Projects\WPF\ConvertDate\ConvertDate\obj\Debug\ConvertDate_MarkupCompile.cache
+C:\Test Projects\WPF\ConvertDate\ConvertDate\obj\Debug\ConvertDate.g.resources
+C:\Test Projects\WPF\ConvertDate\ConvertDate\obj\Debug\ConvertDate.Properties.Resources.resources
+C:\Test Projects\WPF\ConvertDate\ConvertDate\obj\Debug\ConvertDate.csproj.GenerateResource.Cache
+C:\Test Projects\WPF\ConvertDate\ConvertDate\obj\Debug\ConvertDate.exe
+C:\Test Projects\WPF\ConvertDate\ConvertDate\obj\Debug\ConvertDate.pdb

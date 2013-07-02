@@ -1,0 +1,20 @@
+﻿<Window x:Class="ConvertDate.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="545" Width="669">
+    <Grid RenderTransformOrigin="0.497,0.505">
+        <Button x:Name="btnConvert" Content="=>" HorizontalAlignment="Left" Margin="316,242,0,0" VerticalAlignment="Top" Width="29" RenderTransformOrigin="0.5,0.5" Height="24" Click="btnConvert_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-1.383"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <TextBox x:Name="TxtInput"  HorizontalAlignment="Left" Height="495" Margin="10,10,0,0" TextWrapping="Wrap" AcceptsReturn="True" Text="TextBox" VerticalAlignment="Top" Width="300"/>
+        <TextBox x:Name="TxtOutput"  HorizontalAlignment="Left" Height="495" Margin="350,10,0,0" TextWrapping="Wrap" AcceptsReturn="True" Text="TextBox" VerticalAlignment="Top" Width="300"/>
+
+    </Grid>
+</Window>
